@@ -10,4 +10,4 @@ At each time step, an optimal throttle input is computed by using a mixed intege
 
 Figure below shows the reference tracking behavior of the hybrid MPC. The reference velocity cannot be reached quickly enough in some parts of the graph due to constraints on vehicle acceleration.
 
-![alt text](https://github.com/astroquest/hybrid-mpc-for-adaptive-cruise-control/blob/main/velocity.png?raw=true)
+![alt text](https://github.com/astroquest/hybrid-mpc-for-adaptive-cruise-control/blob/main/impl_mpc_54_vt.png?raw=true)
